@@ -1,6 +1,6 @@
 package profit.jikeshijian.bingfabiancheng;
 
-public class AccountWhile27 {
+public class AccountDeadLockDestroyAlone {
     /**
      *
      本意是通过破坏不可抢占条件来避免死锁问题，但是它的实现中有一个致命的问题
