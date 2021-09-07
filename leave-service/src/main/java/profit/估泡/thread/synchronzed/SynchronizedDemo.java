@@ -21,3 +21,7 @@ public class SynchronizedDemo {
         System.out.println("运行结果："+count);
     }
 }
+
+
+
+
