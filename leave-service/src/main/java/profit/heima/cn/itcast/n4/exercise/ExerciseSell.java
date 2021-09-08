@@ -17,10 +17,16 @@ public class ExerciseSell {
         List<Thread> threadList = new ArrayList<>();
         // 卖出的票数统计
         List<Integer> amountList = new Vector<>();
+//        List<Integer> amountList = new ArrayList<>();
         for (int i = 0; i < 2000; i++) {
             Thread thread = new Thread(() -> {
                 // 买票
                 int amount = window.sell(random(5));
+                try {
+                    Thread.sleep(random(10000));
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 // 统计买票数
                 amountList.add(amount);
             });

@@ -1,4 +1,7 @@
 package profit.leetcode.code;
+
+import com.alibaba.fastjson.JSONObject;
+
 /*
  * 105. Construct Binary Tree from Preorder and Inorder Traversal
  * 题意：根据先序和中序，构造二叉树
@@ -18,11 +21,13 @@ public class lc105 {
     public static void main(String[] args) {
         int[] preorder = {3,9,20,15,7};
         int[] inorder = {9,3,15,20,7};
-        buildTree(preorder,inorder);
+        TreeNode treeNode = buildTree(preorder, inorder);
+        System.out.println(treeNode);
     }
     public static TreeNode buildTree(int[] preorder, int[] inorder) {
         return recursion(preorder, inorder, 0, 0, inorder.length-1);
     }
+    //前序遍历函数 参数的目的是为了控制数组的索引
     public static TreeNode recursion(int[] preorder, int[] inorder, int pre_index, int start, int end){   //start,end代表在inorder上搜索的范围
         if(start>end || start >inorder.length)
             return null;
