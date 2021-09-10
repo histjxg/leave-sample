@@ -25,6 +25,7 @@ public class lc124 {
             return 0;
         int left = Math.max(dfs(root.left),0);
         int right = Math.max(dfs(root.right),0);
+        // 后序遍历代码位置
         res = Math.max(res, left+right+root.val);   //该节点是路径上的最高层节点
         return Math.max(left,right)+root.val;
     }
