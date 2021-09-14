@@ -1,0 +1,115 @@
+
+
+===社会===
+NAME: 厌女   AUTHOR:(日) 上 RATE:9.0 URL:https://book.douban.com/subject/25836270/
+NAME: 惊呆了！原来这就是社会学  AUTHOR:［日］田中 RATE:8.8 URL:https://book.douban.com/subject/35434553/
+NAME: 把自己作为方法   AUTHOR:项飙、吴琦 RATE:8.4 URL:https://book.douban.com/subject/35092383/
+NAME: 最好的决定  AUTHOR:[美] 梅 RATE:8.3 URL:https://book.douban.com/subject/30432520/
+NAME: 江城  AUTHOR:[美] 彼 RATE:9.1 URL:https://book.douban.com/subject/7060185/
+NAME: 大地之上  AUTHOR:[加拿大] RATE:9.2 URL:https://book.douban.com/subject/35268657/
+get page: https://book.douban.com/tag/社会
+===社会学===
+NAME: 男性统治  AUTHOR:[法] 皮 RATE:8.0 URL:https://book.douban.com/subject/26921060/
+NAME: 社会心理学   AUTHOR:[美] 戴 RATE:9.0 URL:https://book.douban.com/subject/1476651/
+get page: https://book.douban.com/tag/社会学
+===社科===
+NAME: 景观社会  AUTHOR:[法] 居 RATE:8.3 URL:https://book.douban.com/subject/26865819/
+get page: https://book.douban.com/tag/社科
+===社会===
+NAME: 黑箱   AUTHOR:[日]伊藤 RATE:8.8 URL:https://book.douban.com/subject/30484795/
+NAME: 成为波伏瓦  AUTHOR:[英]凯特 RATE:9.0 URL:https://book.douban.com/subject/35317169/
+NAME: 美国生活中的反智主义  AUTHOR:[美] 理 RATE:8.6 URL:https://book.douban.com/subject/35334792/
+NAME: 寻路中国   AUTHOR:[美] 彼 RATE:9.0 URL:https://book.douban.com/subject/5414391/
+get page: https://book.douban.com/tag/社会?start=20
+===社会学===
+NAME: 24/7:晚期资本主义与睡眠的终结  AUTHOR:[美] 乔 RATE:8.1 URL:https://book.douban.com/subject/35462974/
+get page: https://book.douban.com/tag/社会学?start=20
+===社科===
+NAME: 哲学的故事  AUTHOR:[美] 威 RATE:8.9 URL:https://book.douban.com/subject/14439405/
+NAME: 打开   AUTHOR:周濂 RATE:8.7 URL:https://book.douban.com/subject/30441530/
+NAME: 十问   AUTHOR:[英]史蒂 RATE:8.5 URL:https://book.douban.com/subject/30459652/
+NAME: 幸福之路  AUTHOR:（英）伯特 RATE:8.8 URL:https://book.douban.com/subject/35302634/
+get page: https://book.douban.com/tag/社科?start=20
+
+===社会===
+NAME: 气候经济与人类未来   AUTHOR:[美国]  RATE:8.2 URL:https://book.douban.com/subject/35396007/
+NAME: 坡道上的家  AUTHOR:[日] 角 RATE:8.3 URL:https://book.douban.com/subject/34911983/
+NAME: 如何抑止女性写作  AUTHOR:[美]乔安 RATE:9.0 URL:https://book.douban.com/subject/35229199/
+get page: https://book.douban.com/tag/社会?start=40
+===社会学===
+NAME: 梅里雪山   AUTHOR:[日]小林 RATE:9.1 URL:https://book.douban.com/subject/35308870/
+NAME: 中国国家治理的制度逻辑   AUTHOR:周雪光 RATE:9.2 URL:https://book.douban.com/subject/26901114/
+NAME: 安乐死现场  AUTHOR:[日]宫下 RATE:8.5 URL:https://book.douban.com/subject/35462752/
+NAME: 新教伦理与资本主义精神  AUTHOR:[德] 马 RATE:9.2 URL:https://book.douban.com/subject/27083202/
+get page: https://book.douban.com/tag/社会学?start=40
+===社科===
+NAME: 当下的启蒙   AUTHOR:[美] 史 RATE:8.1 URL:https://book.douban.com/subject/30376593/
+NAME: 黑旗   AUTHOR:[美] 乔 RATE:8.3 URL:https://book.douban.com/subject/26897747/
+NAME: 自由主义被遗忘的历史   AUTHOR:[美]海伦 RATE:8.8 URL:https://book.douban.com/subject/35081726/
+get page: https://book.douban.com/tag/社科?start=40
+
+
+===社会===
+NAME: 大国大城   AUTHOR:陆铭 RATE:8.8 URL:https://book.douban.com/subject/26824237/
+NAME: 生命的探问   AUTHOR:[奥地利] RATE:8.1 URL:https://book.douban.com/subject/35372470/
+NAME: 社会契约论  AUTHOR:卢梭 RATE:8.8 URL:https://book.douban.com/subject/1277981/
+NAME: 态度改变与社会影响  AUTHOR:[美] 菲 RATE:9.0 URL:https://book.douban.com/subject/2328178/
+NAME: 天空的另一半   AUTHOR:[美] 尼 RATE:8.8 URL:https://book.douban.com/subject/25845647/
+get page: https://book.douban.com/tag/社会?start=60
+===社会学===
+NAME: 六论自发性   AUTHOR:[美] 詹 RATE:9.0 URL:https://book.douban.com/subject/30441554/
+NAME: “读书的料”及其文化生产   AUTHOR:程猛 RATE:8.4 URL:https://book.douban.com/subject/34747257/
+NAME: 性別打結——拆除父權違建  AUTHOR:亞倫·強森 RATE:9.4 URL:https://book.douban.com/subject/3066800/
+NAME: 日常生活中的自我呈现  AUTHOR:欧文·戈夫 RATE:8.6 URL:https://book.douban.com/subject/3062632/
+get page: https://book.douban.com/tag/社会学?start=60
+===社科===
+NAME: 必然  AUTHOR:凯文·凯利 RATE:8.4 URL:https://book.douban.com/subject/26653673/
+NAME: 权力   AUTHOR:[美] 杰 RATE:8.1 URL:https://book.douban.com/subject/10446295/
+NAME: 上瘾五百年   AUTHOR:（美）戴维 RATE:8.1 URL:https://book.douban.com/subject/1255434/
+NAME: 为女权辩护   AUTHOR:[英]玛丽 RATE:8.9 URL:https://book.douban.com/subject/27192066/
+NAME: 电车难题   AUTHOR:[美] 托 RATE:8.1 URL:https://book.douban.com/subject/25923695/
+get page: https://book.douban.com/tag/社科?start=60
+===社会===
+NAME: 赡养人类  AUTHOR:刘慈欣 RATE:8.6 URL:https://book.douban.com/subject/26807576/
+NAME: 女孩之城  AUTHOR:[美] 伊 RATE:8.5 URL:https://book.douban.com/subject/35059158/
+NAME: 家  AUTHOR:巴金 RATE:8.2 URL:https://book.douban.com/subject/1082522/
+get page: https://book.douban.com/tag/社会?start=80
+===社会学===
+NAME: 全球真实故事集   AUTHOR:吴琦 RATE:8.6 URL:https://book.douban.com/subject/35425712/
+get page: https://book.douban.com/tag/社会学?start=80
+===社科===
+NAME: 为人文教育辩护  AUTHOR:[美]法里 RATE:8.4 URL:https://book.douban.com/subject/26674037/
+NAME: 浪漫主义的根源  AUTHOR:[英]以赛 RATE:9.5 URL:https://book.douban.com/subject/34449286/
+NAME: 学术与政治  AUTHOR:[德] 马 RATE:9.3 URL:https://book.douban.com/subject/30423925/
+NAME: 虽然人人都说暴力不好（14岁懂社会系列）  AUTHOR:[日]萱野 RATE:8.7 URL:https://book.douban.com/subject/30262316/
+NAME: 1844年经济学哲学手稿  AUTHOR:马克思 RATE:9.4 URL:https://book.douban.com/subject/26323176/
+get page: https://book.douban.com/tag/社科?start=80
+===社会===
+NAME: 默读.2  AUTHOR:Pries RATE:8.5 URL:https://book.douban.com/subject/30246163/
+NAME: 复活  AUTHOR:[俄]托尔 RATE:8.8 URL:https://book.douban.com/subject/25760686/
+NAME: 朱令的四十五年   AUTHOR:李佳佳 RATE:8.6 URL:https://book.douban.com/subject/34879048/
+NAME: 童年的消逝  AUTHOR:[美]尼尔 RATE:8.0 URL:https://book.douban.com/subject/26319794/
+NAME: 批评官员的尺度   AUTHOR:[美] 安 RATE:8.9 URL:https://book.douban.com/subject/6401128/
+NAME: 孽子  AUTHOR:白先勇 RATE:9.1 URL:https://book.douban.com/subject/26253695/
+get page: https://book.douban.com/tag/社会?start=100
+===社会学===
+NAME: 何为良好生活   AUTHOR:陈嘉映 RATE:8.7 URL:https://book.douban.com/subject/26363926/
+NAME: 40%的工作沒意義，為什麼還搶著做？   AUTHOR:大衛．格雷 RATE:8.5 URL:https://book.douban.com/subject/30437833/
+get page: https://book.douban.com/tag/社会学?start=100
+===社科===
+NAME: 谁在世界中心  AUTHOR:温骏轩 RATE:8.6 URL:https://book.douban.com/subject/27045287/
+NAME: 人类的破坏性剖析  AUTHOR:[美] 埃 RATE:9.1 URL:https://book.douban.com/subject/25899658/
+NAME: Factfulness   AUTHOR:Hans  RATE:9.0 URL:https://book.douban.com/subject/30205907/
+NAME: 一个孤独漫步者的遐想  AUTHOR:[法] 让 RATE:8.4 URL:https://book.douban.com/subject/26905777/
+NAME: 自由的基因   AUTHOR:[英] 丹 RATE:8.0 URL:https://book.douban.com/subject/26545443/
+NAME: 伟大的中国工业革命   AUTHOR:文一 RATE:8.3 URL:https://book.douban.com/subject/26834083/
+NAME: 凶年（全2册）  AUTHOR:[美]大卫 RATE:8.9 URL:https://book.douban.com/subject/35352576/
+get page: https://book.douban.com/tag/社科?start=100
+===社会===
+NAME: 推拿  AUTHOR:毕飞宇 RATE:8.1 URL:https://book.douban.com/subject/3239913/
+NAME: 亚洲大趋势   AUTHOR:[美] 乔 RATE:9.0 URL:https://book.douban.com/subject/25893995/
+get page: https://book.douban.com/tag/社会?start=120
+===社会学===
+NAME: 公正   AUTHOR:[美] 迈 RATE:9.1 URL:https://book.douban.com/subject/20366368/
+NAME: 末日松茸   AUTHOR:罗安清 RATE:8.0 URL:https://book.douban.com/subject/35059450/
+get page: https://book.douban.com/tag/社会学?start=120

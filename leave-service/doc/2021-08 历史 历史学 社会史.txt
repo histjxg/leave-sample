@@ -1,0 +1,109 @@
+
+
+===历史===
+NAME: 奶酪与蛆虫   AUTHOR:[意]卡洛 RATE:8.3 URL:https://book.douban.com/subject/35470123/
+NAME: 中国历代政治得失  AUTHOR:钱穆 RATE:9.2 URL:https://book.douban.com/subject/1003479/
+NAME: 秦制两千年   AUTHOR:谌旭彬 RATE:8.6 URL:https://book.douban.com/subject/35356472/
+NAME: 邓小平时代  AUTHOR:[美] 傅 RATE:9.2 URL:https://book.douban.com/subject/20424526/
+NAME: 红星照耀中国  AUTHOR:[美] 埃 RATE:9.1 URL:https://book.douban.com/subject/26820347/
+NAME: 巨人的陨落   AUTHOR:[英] 肯 RATE:8.9 URL:https://book.douban.com/subject/26698660/
+NAME: 下沉年代  AUTHOR:[美] 乔 RATE:8.7 URL:https://book.douban.com/subject/35230281/
+get page: https://book.douban.com/tag/历史
+===历史学===
+NAME: 认识世界：古代与中世纪哲学   AUTHOR:[德]理查 RATE:9.1 URL:https://book.douban.com/subject/35268348/
+NAME: 历史的运用与滥用  AUTHOR:[加] 玛 RATE:8.2 URL:https://book.douban.com/subject/35324419/
+NAME: 中国大历史  AUTHOR:黄仁宇 RATE:8.2 URL:https://book.douban.com/subject/1015699/
+NAME: 埃及、希腊与罗马   AUTHOR:[英] 查 RATE:9.2 URL:https://book.douban.com/subject/34970398/
+get page: https://book.douban.com/tag/历史学
+===社会史===
+NAME: 16和17世纪英格兰大众信仰研究  AUTHOR:[英] 基 RATE:9.2 URL:https://book.douban.com/subject/30264414/
+NAME: 野蛮大陆   AUTHOR:[英] 基 RATE:9.0 URL:https://book.douban.com/subject/26354440/
+get page: https://book.douban.com/tag/社会史
+===历史学===
+NAME: 学术训练与学术规范   AUTHOR:荣新江 RATE:8.9 URL:https://book.douban.com/subject/6313277/
+NAME: 能夏则大与渐慕华风   AUTHOR:胡鸿 RATE:8.9 URL:https://book.douban.com/subject/27011415/
+NAME: “边缘人”纪事   AUTHOR:杨奎松 RATE:8.3 URL:https://book.douban.com/subject/26711101/
+NAME: 历史学家的技艺  AUTHOR:[法]马克 RATE:9.0 URL:https://book.douban.com/subject/33462994/
+get page: https://book.douban.com/tag/历史学?start=20
+===社会史===
+NAME: 希望永远都在  AUTHOR:[美]帕特 RATE:8.8 URL:https://book.douban.com/subject/24296281/
+NAME: 十五至十八世纪的物质文明、经济和资本主义   AUTHOR:[法] 费 RATE:9.4 URL:https://book.douban.com/subject/27001534/
+NAME: 古拉格：一部历史  AUTHOR:(美)安妮 RATE:9.2 URL:https://book.douban.com/subject/20503529/
+NAME: 世俗时代  AUTHOR:[加拿大] RATE:9.3 URL:https://book.douban.com/subject/26718544/
+get page: https://book.douban.com/tag/社会史?start=20
+
+===历史===
+NAME: 两京十五日  AUTHOR:马伯庸 RATE:8.1 URL:https://book.douban.com/subject/35080870/
+NAME: 2000年以来的西方  AUTHOR:刘擎 RATE:8.3 URL:https://book.douban.com/subject/35373328/
+NAME: 塔利班   AUTHOR:[巴基斯坦 RATE:8.2 URL:https://book.douban.com/subject/26266755/
+NAME: 为什么是中国  AUTHOR:金一南 RATE:8.1 URL:https://book.douban.com/subject/35094272/
+get page: https://book.douban.com/tag/历史?start=40
+===历史学===
+NAME: 中国政治制度史纲  AUTHOR:严耕望 RATE:9.1 URL:https://book.douban.com/subject/25792791/
+NAME: 英国通史  AUTHOR:钱乘旦、许 RATE:8.8 URL:https://book.douban.com/subject/20406640/
+NAME: 执拗的低音   AUTHOR:王汎森 RATE:8.9 URL:https://book.douban.com/subject/25659944/
+get page: https://book.douban.com/tag/历史学?start=40
+===社会史===
+NAME: 家族、土地与祖先   AUTHOR:[美]易劳 RATE:8.2 URL:https://book.douban.com/subject/30283398/
+NAME: 原宿牛仔   AUTHOR:[美] W RATE:8.4 URL:https://book.douban.com/subject/33436277/
+NAME: 梦醒子   AUTHOR:沈艾娣 ( RATE:8.4 URL:https://book.douban.com/subject/25498796/
+NAME: 讲故事   AUTHOR:[荷] 田 RATE:8.2 URL:https://book.douban.com/subject/27028462/
+get page: https://book.douban.com/tag/社会史?start=40
+===历史===
+NAME: 毛泽东传   AUTHOR:[美] 罗 RATE:8.3 URL:https://book.douban.com/subject/5246800/
+NAME: 美食与文明   AUTHOR:蕾切尔·劳 RATE:8.4 URL:https://book.douban.com/subject/35143853/
+NAME: 美好时代的背后  AUTHOR:[美]凯瑟 RATE:8.6 URL:https://book.douban.com/subject/35448333/
+NAME: 浮木  AUTHOR:杨本芬 RATE:8.9 URL:https://book.douban.com/subject/35479662/
+get page: https://book.douban.com/tag/历史?start=60
+===历史学===
+NAME: 什么是文化史  AUTHOR:[英] 彼 RATE:8.6 URL:https://book.douban.com/subject/4111675/
+NAME: 停滞的帝国   AUTHOR:[法] 阿 RATE:8.6 URL:https://book.douban.com/subject/25733152/
+NAME: 论历史   AUTHOR:〔法〕费尔 RATE:8.3 URL:https://book.douban.com/subject/3242118/
+NAME: 历史之源-牛津通识读本  AUTHOR:[英] 约 RATE:8.3 URL:https://book.douban.com/subject/20501391/
+get page: https://book.douban.com/tag/历史学?start=60
+===社会史===
+NAME: 再会，老北京   AUTHOR:[美] 迈 RATE:8.3 URL:https://book.douban.com/subject/21617690/
+NAME: 中国社会史  AUTHOR:梁庚尧 RATE:9.4 URL:https://book.douban.com/subject/26776858/
+get page: https://book.douban.com/tag/社会史?start=60
+
+===历史===
+NAME: 清明上河图密码   AUTHOR:冶文彪 RATE:8.2 URL:https://book.douban.com/subject/26265745/
+NAME: 浪潮之巅  AUTHOR:吴军 RATE:9.0 URL:https://book.douban.com/subject/6709783/
+NAME: 八次危机   AUTHOR:温铁军 RATE:8.9 URL:https://book.douban.com/subject/20394150/
+get page: https://book.douban.com/tag/历史?start=80
+===历史学===
+NAME: 见识丛书·革命的年代：1789—1848  AUTHOR:[英]艾瑞 RATE:8.3 URL:https://book.douban.com/subject/27031977/
+NAME: 地中海与菲利普二世时代的地中海世界（全二卷）  AUTHOR:[法]费尔 RATE:9.5 URL:https://book.douban.com/subject/24541892/
+NAME: 现代世界史  AUTHOR:[美] R RATE:8.6 URL:https://book.douban.com/subject/22993936/
+NAME: 汉帝国的建立与刘邦集团   AUTHOR:李开元 RATE:8.3 URL:https://book.douban.com/subject/1559571/subject/25910407/
+get page: https://book.douban.com/tag/历史学?start=80
+===社会史===
+NAME: 霓虹灯外   AUTHOR:[美] 卢 RATE:8.9 URL:https://book.douban.com/subject/30254263/
+NAME: 启蒙运动的生意   AUTHOR:罗伯特·达 RATE:8.2 URL:https://book.douban.com/subject/1461650/
+NAME: 宗子维城   AUTHOR:[美]罗泰 RATE:8.7 URL:https://book.douban.com/subject/27054319/
+NAME: 皇权不下县   AUTHOR:胡恒 RATE:8.4 URL:https://book.douban.com/subject/26604202/
+NAME: 中华帝国晚期的叛乱及其敌人   AUTHOR:[美] 孔 RATE:8.3 URL:https://book.douban.com/subject/1063540/
+get page: https://book.douban.com/tag/社会史?start=80
+===历史===
+NAME: 许渊冲：永远的西南联大  AUTHOR:许渊冲 RATE:8.1 URL:https://book.douban.com/subject/35461016/
+NAME: 1453   AUTHOR:[英] 罗 RATE:9.0 URL:https://book.douban.com/subject/25891318/
+NAME: 中国人的精神   AUTHOR:辜鸿铭 RATE:8.0 URL:https://book.douban.com/subject/1709548/
+NAME: 隳三都   AUTHOR:周思成 RATE:8.5 URL:https://book.douban.com/subject/35336328/
+get page: https://book.douban.com/tag/历史?start=100
+===历史学===
+NAME: 欧罗巴一千年   AUTHOR:[英] 伊 RATE:8.3 URL:https://book.douban.com/subject/33395089/
+NAME: 余英時回憶錄   AUTHOR:余英時 RATE:8.8 URL:https://book.douban.com/subject/30348379/
+NAME: 北宋晚期的政治体制与政治文化  AUTHOR:方诚峰 RATE:8.9 URL:https://book.douban.com/subject/26699027/
+get page: https://book.douban.com/tag/历史学?start=100
+===社会史===
+NAME: 大门口的陌生人   AUTHOR:[美] 魏 RATE:8.3 URL:https://book.douban.com/subject/1023084/
+NAME: 华北的叛乱者与革命者（1845—1945）  AUTHOR:裴宜理 RATE:8.2 URL:https://book.douban.com/subject/2171187/
+NAME: 萨哈林旅行记   AUTHOR:[俄] 契 RATE:8.8 URL:https://book.douban.com/subject/25283615/
+NAME: 清朝穿越指南  AUTHOR:橘玄雅 RATE:8.0 URL:https://book.douban.com/subject/27103049/
+NAME: 卢丹的恶魔：法国神父“附魔”案   AUTHOR:[英] 阿 RATE:8.5 URL:https://book.douban.com/subject/30299178/
+get page: https://book.douban.com/tag/社会史?start=100
+===历史===
+NAME: 九王夺嫡  AUTHOR:郑小悠、橘 RATE:8.5 URL:https://book.douban.com/subject/35433917/
+NAME: 中央帝国的财政密码  AUTHOR:郭建龙 RATE:8.3 URL:https://book.douban.com/subject/27007549/
+NAME: 长安十二时辰 上  AUTHOR:马伯庸 RATE:8.4 URL:https://book.douban.com/subject/26899537/
+
