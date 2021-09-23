@@ -1,6 +1,7 @@
 package profit.jikeshijian.shejimoshi.guanchazhemoshi;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -26,5 +27,11 @@ public class UserTwoController {
             observer.handleRegSuccess(userId);
         }
         return userId;
+    }
+
+
+    public static void main(String[] args) {
+        HashMap hashMap = new HashMap();
+        System.out.println("shifou weikong"+hashMap.isEmpty());
     }
 }
